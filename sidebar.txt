@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lcd:home|Door43 (lcd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lcd|d43-lcd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lcd/archive/master.zip|d43-lcd.zip]]
+
+**Recent Changes**
+{{changes>ns = lcd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lcd|Ethnologue data]]
+
